@@ -2,7 +2,7 @@
 
 A machine learning-powered web application that predicts the likelihood of diabetes based on clinical inputs. Built using Python, trained on the **PIMA Indian Diabetes Dataset**, and deployed using **Streamlit Cloud**.
 
-🔗 **Live App:**  
+🔗 **Live App:**
 👉 [Try it here](https://diabetes-predictor-app-ccig7z4kxqv6w6wkhy6lzb.streamlit.app)
 
 ---
@@ -89,8 +89,8 @@ The purpose of this project is to:
 
 Feel free to connect with me for collaboration, feedback, or mentorship!
 
-- 💼 [LinkedIn Profile](#) *(Add your link here)*
-- ✉️ Email: *yourname@example.com*
+- 💼 [LinkedIn Profile](#) *(www.linkedin.com/in/parth-mishra-193704296)*
+- ✉️ Email: *parthmishraram291@gmail.com*
 
 ---
 
